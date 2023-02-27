@@ -1,10 +1,10 @@
 # Titanic Survival Predictor
 This is my take on a classification model on the Titanic dataset, predicting who survived the sinking of the Titanic.
 
-##Status
+  Status
 On 23 Feb 2023, submitted predictions to kaggle Titanic comptition using a sk-learn Gaussian Process Classifier for an accuracy score of 78.229%
 
-##Files
+  Files
 The project is divided into two data files (.csv), three Jupyter notebooks, a pickle file, and a csv submission file
 
   Data
