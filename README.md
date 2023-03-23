@@ -38,7 +38,7 @@ Skipping the EDA and the model building, the titanic_predictor.ipynb file can be
 
 ## Model Selection
 
-![Titanic Classifier Model Comparison]https://github.com/StevensMR/titanic/blob/main/Model_comparison.png
+![Titanic Classifier Model Comparison](https://github.com/StevensMR/titanic/blob/main/Model_comparison.png)
 
 ##Credits
 All code written by Mike Stevens
