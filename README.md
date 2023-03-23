@@ -36,6 +36,10 @@ The project is divided into two data files (.csv), three Jupyter notebooks, a pi
 ## Execution
 Skipping the EDA and the model building, the titanic_predictor.ipynb file can be loaded into a conda environment with test.csv and Titanc_model.pkl file in same directory, then run all cells in the notebook to generate a submission.csv file.
 
+## Model Selection
+
+![Titanic Classifier Model Comparison]https://github.com/StevensMR/titanic/blob/main/Model_comparison.png
+
 ##Credits
 All code written by Mike Stevens
 Thanks to Brett Waugh who helped mentor me on my beginning steps on my data science/machine learning journey
