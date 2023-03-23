@@ -40,6 +40,15 @@ Skipping the EDA and the model building, the titanic_predictor.ipynb file can be
 
 ![Titanic Classifier Model Comparison](https://github.com/StevensMR/titanic/blob/main/Model_comparison.png)
 
-##Credits
-All code written by Mike Stevens
+Per the chart above, a hyperparameter tuned version of XGBoost outperformed every other model on the training data, including the ensemble learning models.  TPOT confirmed that XGBoost outperformed the other classifiers (0.793 accuracy score), although the tuned XGBoost model returned higher accuracy (0.844 accuracy)
+
+## Issues
+due to the depricated alias of float in the numpy library, I needed to roll back numpy to version 1.23.5 to avoid errors.
+
+## Credits
+All code written by Mike Stevens, with the following exceptions:
+
+TPOT code modified from https://machinelearningmastery.com/tpot-for-automated-machine-learning-in-python
+
+
 Thanks to Brett Waugh who helped mentor me on my beginning steps on my data science/machine learning journey
