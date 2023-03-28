@@ -5,7 +5,7 @@ This is my take on a classification model on the Titanic dataset, predicting who
   
 On 23 Feb 2023, submitted predictions to kaggle Titanic comptition using a sk-learn Gaussian Process Classifier for an accuracy score of 78.229%
 
-28 Mar 2023, I updated the code into an expanded EDA notebook and a streamlined model building and testing notebook, and updated this readme file with images
+28 Mar 2023, I updated the code into an expanded EDA notebook and a streamlined model building and testing notebook, and updated this readme file with images. New hyperparameter tuned XGBoost model scored 78.468%
 
 ## Project Description
 
