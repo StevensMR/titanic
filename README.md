@@ -75,7 +75,11 @@ due to the depricated alias of float in the numpy library, I needed to roll back
 
 ## Credits
 All code assembled by Mike Stevens with the following exceptions:
+
 EDA graphs: code modified from https://drivendata.co/blog/predict-flu-vaccine-data-benchmark/
+
 TPOT code derived from https://machinelearningmastery.com/tpot-for-automated-machine-learning-in-python/
+
 Voting ensemble code derived from https://machinelearningmastery.com/voting-ensembles-with-python/
+
 Thanks to Brett Waugh who helped mentor me on my beginning steps on my data science/machine learning journey
