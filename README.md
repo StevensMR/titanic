@@ -34,7 +34,7 @@ The project is divided into two data files (.csv), two Jupyter notebooks, a pick
     submission.csv : predictions of survivors from the test data
 
 ## Execution
-Skipping the EDA and the model building, the titanic_predictor.ipynb file can be loaded into a conda environment with test.csv and Titanc_model.pkl file in same directory, then run all cells in the notebook to generate a submission.csv file.
+Skipping the EDA and the model building, the Titanic_w_teapot.ipynb file can be loaded into a conda environment with test.csv file in same directory, then run all cells in the notebook to generate a submission.csv file and the Titanic_model.pkl file.
 
 ## Exploratory Data Analysis
 
